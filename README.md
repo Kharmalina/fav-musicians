@@ -1,4 +1,4 @@
-# fav-musicians
+# fav-musicians 🎤 ✨
 
 <h3>My favorite musicians go on rotation, but here are some artists I really like listening to now!</h3>
 
