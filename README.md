@@ -6,6 +6,7 @@
 <ol>Current favorite songs: 
     <li>Snooze</li>
 </ol>
+
 ![](https://media.giphy.com/media/4jZk3eOiJTj3qByXXJ/giphy.gif)
 
 ## The Weeknd
