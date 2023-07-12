@@ -3,6 +3,9 @@
 <h3>My favorite musicians go on rotation, but here are some artists I really like listening to now!</h3>
 
 ## SZA
+<ol>Current favorite songs: 
+    <li>Snooze</li>
+</ol>
 ![](https://media.giphy.com/media/4jZk3eOiJTj3qByXXJ/giphy.gif)
 
 ## The Weeknd
